@@ -1,0 +1,15 @@
+.postfull {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+}
+.title {
+  font-size: 25px;
+}
+.id {
+  font-size: 25px;
+}
+.text {
+    display: flex;
+}
